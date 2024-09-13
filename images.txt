@@ -1,1 +1,2 @@
 amazoncorretto:11
+openjdk:11-jdk
