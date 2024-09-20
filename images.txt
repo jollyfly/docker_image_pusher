@@ -1,5 +1,6 @@
 --platform=linux/arm64 amazoncorretto:11
 --platform=linux/arm64 openjdk:11-jdk
+--platform=linux/arm64 eclipse-temurin:21
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 nginx:latest
