@@ -9,3 +9,5 @@
 --platform=linux/arm64 halohub/halo:2.19
 
 ghcr.io/open-webui/open-webui:ollama
+
+--platform=linux/arm64 ghcr.io/open-webui/open-webui:ollama
