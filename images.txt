@@ -1,17 +1,11 @@
 --platform=linux/arm64 amazoncorretto:11
 --platform=linux/arm64 openjdk:11-jdk
+--platform=linux/arm64 openjdk:8-jdk
 
 --platform=linux/arm64 eclipse-temurin:21
 --platform=linux/arm64 eclipse-temurin:25
 --platform=linux/arm64 amazoncorretto:25
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+
 --platform=linux/arm64 nginx:latest
---platform=linux/arm64 postgres:15.4
---platform=linux/arm64 halohub/halo:2.19
 
---platform=linux/arm64 redis:8.0.2
 
-ghcr.io/open-webui/open-webui:ollama
-
---platform=linux/arm64 ghcr.io/open-webui/open-webui:ollama
